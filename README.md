@@ -35,6 +35,12 @@ Our methodology was 3 fold:
     * Generate a confusion matrix.
     * Print the classification report.
 
+## Interesting graph
+<img width="1029" alt="Screen Shot 2022-06-13 at 12 00 15 AM" src="https://user-images.githubusercontent.com/101449950/173277284-aad03134-799c-4fb4-9edb-6c8f0f8a7b3a.png">
+
+While reviewing I thought it would be interesting to graphicallly get an idea of what was going on.
+
+
 ## Results
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
