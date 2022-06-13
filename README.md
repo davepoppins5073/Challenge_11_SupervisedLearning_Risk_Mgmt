@@ -8,6 +8,9 @@ When it comes to credit risk there is a central issue. Its a clasffication issue
 Our methodology was 3 fold:
 
 #### Split the Data into Training and Testing Sets
+<img width="1220" alt="Screen Shot 2022-06-12 at 11 58 12 PM" src="https://user-images.githubusercontent.com/101449950/173277095-7666b191-1e52-4178-91c3-52aca7ac9c35.png">
+
+
 1. Read the `lending_data.csv` data from the `Resources` folder into a Pandas DataFrame.
 2. Create the labels set (`y`)  from the “loan_status” column, and then create the features (`X`) DataFrame from the remaining columns.
 3. Check the balance of the labels variable (`y`) by using the `value_counts` function.
