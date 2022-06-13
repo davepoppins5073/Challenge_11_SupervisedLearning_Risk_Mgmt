@@ -1,31 +1,59 @@
 # Module 12 Report Template
 
-## Overview of the Analysis
+## Overview/Summary of Analysis and Findings
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
+When it comes to credit risk there is a central issue. Its a clasffication issue: namely healthy loans easily outnumber risky loans. In other words when it comes to prediction it harder to predict the risky loans because they are not well represented in the datasets available.  In this exercise we first establish that presence of an imbalance in the data set  provided using the value count function in python. Once we establish that there is an overbalance issue we attemp to use an oversampling technique to address this. In the end the the model that used the over-sampled data was more accurate at predicting unhealthy loans
 
-* Explain the purpose of the analysis.
-* Explain what financial information the data was on, and what you needed to predict.
-* Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
-* Describe the stages of the machine learning process you went through as part of this analysis.
-* Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
+## Methodology:
+Our methodology was 3 fold:
+
+#### Split the Data into Training and Testing Sets
+1. Read the `lending_data.csv` data from the `Resources` folder into a Pandas DataFrame.
+2. Create the labels set (`y`)  from the “loan_status” column, and then create the features (`X`) DataFrame from the remaining columns.
+3. Check the balance of the labels variable (`y`) by using the `value_counts` function.
+4. Split the data into training and testing datasets by using `train_test_split`.
+
+#### Create a Logistic Regression Model with the Original Data
+
+1. Fit a logistic regression model by using the training data (`X_train` and `y_train`).
+2. Save the predictions on the testing data labels by using the testing feature data (`X_test`) and the fitted model.
+3. Evaluate the model’s performance by doing the following:
+
+    * Calculate the accuracy score of the model.
+    * Generate a confusion matrix.
+    * Print the classification report.
+
+#### Predict a Logistic Regression Model with Resampled Training Data 
+1. Use the `RandomOverSampler` module from the imbalanced-learn library to resample the data.
+2. Use the `LogisticRegression` classifier and the resampled data to fit the model and make predictions.
+3. Evaluate the model’s performance by doing the following:
+
+    * Calculate the accuracy score of the model.
+    * Generate a confusion matrix.
+    * Print the classification report.
 
 ## Results
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
-* Machine Learning Model 1:
-  * Description of Model 1 Accuracy, Precision, and Recall scores.
+* Machine Learning Model 1: Logical Regression
+  * What is it? 
+  * Logistic regression is one of the most popular Machine Learning algorithms, which comes under the Supervised Learning technique. It is used for predicting the categorical dependent variable using a given set of independent variables. Logistic regression predicts the output of a categorical dependent variable.
 
 
-
-* Machine Learning Model 2:
-  * Description of Model 2 Accuracy, Precision, and Recall scores.
+* Machine Learning Model 2:Logical Regression w. Resampled Data:
+  * The RandomOverSampler Modules is a python modules that employs Random oversampling - a technique that duplicates examples from the minority class in the training dataset and can result in overfitting for some models.
 
 ## Summary
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
-* Which one seems to perform best? How do you know it performs best?
-* Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
+<img width="710" alt="Screen Shot 2022-06-12 at 11 48 25 PM" src="https://user-images.githubusercontent.com/101449950/173276064-d105d653-0dba-4256-a56f-abe1ee61387d.png">
 
-If you do not recommend any of the models, please justify your reasoning.
+
+The balance accuracy score increased from 0.94 to 0.99. The balance accurancy score is the proportion of correctly identified negatives over the total negative prediction made by the model. The increase seems promising but its not until we check out the classification report that we will get a more nuanced understanding of whats happening.
+
+The precision values stayed the same for healthy loans and for high risk loans. To recap that means that out of all the times that the model predicted a testing data observation to be the value 0 (healthy loans), 100% of those predictions were correct. On the other hand, out of all the times that the model predicted a value of 1, only 87% of those predictions were correct.
+
+The next thing we need to look at is recall. Recall is a measure of the classifier's completeness; the ability of a classifier to correctly find all positive instances. For each class, it is defined as the ratio of true positives to the sum of true positives and false negatives. The recall in this case increased from 0.89 to 1. What this increase in the recall means is that the model that used the oversampled data was more accurate at predicting unhealthy loans
+
+
+
