@@ -1,0 +1,920 @@
+  100  ls
+  101  git /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod5_Challenge/GitHub_Uploader/Challenge5_FinancialPlanning 
+  102  git clone /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod5_Challenge/GitHub_Uploader/Challenge5_FinancialPlanning 
+  103  git clone git@github.com:davepoppins5073/Challenge5_FinancialPlanning.git
+  104  conda activate dev
+  105  ls
+  106  cd Desktop/Fintech-WorkSpace/Python_Project/Mod5_Challenge/GitHub_Uploader/Challenge5_FinancialPlanning
+  107  ls
+  108  jupyter lab
+  109  conda activate dev
+  110  cd Desktop/Fintech-WorkSpace/Python_Project
+  111  cd Mod5_Challenge/GitHub_Uploader/Challenge5_FinancialPlanning
+  112  ls 
+  113  git clone
+  114  git clone git@github.com:davepoppins5073/Challenge5_FinancialPlanning.git
+  115  ssh-add -l -E md5
+  116  ssh-add ~/.ssh/git_rsa
+  117  open ~/.ssh
+  118  ssh-keygen -t rsa -C “mrmarymf.poppins@gmail.com”
+  119  cat ~/.ssh/id_rsa.pub
+  120  ssh -T git@github.com
+  121  ssh -T git@github.com
+  122  $ eval "$(ssh-agent -s)"
+  123  cd
+  124  $ eval "$(ssh-agent -s)"
+  125  $ pbcopy < ~/.ssh/id_ed25519.pub
+  126  /cd .ssh
+  127  cd .ssh
+  128  ls
+  129  cd id_rsa
+  130  open id_rsa
+  131  open id_rsa.pub
+  132  cd
+  133  $ ssh -T git@github.com
+  134  ssh -T git@github.com
+  135  cd
+  136  ssh-agent -s
+  137  ssh-add ~/.ssh/id_rsa
+  138  ssh -T git@github.com
+  139  cd Desktop/Challenge5_FinancialPlanning
+  140  ls
+  141  cd ..
+  142  cd Fintech-WorkSpace
+  143  cd Python_Project/Mod5_Challenge/GitHub_Uploader/Challenge5_FinancialPlanning
+  144  ls
+  145  git clone git@github.com:davepoppins5073/Challenge5_FinancialPlanning.git
+  146  ls
+  147  cd Challenge5_FinancialPlanning
+  148  ls
+  149  rmdir Utils
+  150  ls
+  151  git add -A
+  152  git commit -m "Changed the folder structure up"
+  153  git push
+  154  python -m pip install -r requirements.txt
+  155  git add -A
+  156  git commit -m "Added an insane number of comments for readability"
+  157  git push
+  158  git add -A
+  159  git commit -m "lots of edits"
+  160  git push
+  161  ls
+  162  jupyter lab
+  163  conda activate dev
+  164  cd Desktop/Fintech-WorkSpace/Python_Project/Mod5_Challenge/GitHub_Uploader/Challenge5_FinancialPlanning
+  165  git add -A
+  166  ls
+  167  git add -A
+  168  cd
+  169  ls
+  170  cd Desktop/Fintech-WorkSpace/Python_Project/Mod5_Challenge/GitHub_Uploader/Challenge5_FinancialPlanning
+  171  cd ..
+  172  ls
+  173  cd Challenge5_FinancialPlanning
+  174  ls
+  175  git add -A
+  176   ls
+  177  cd Challenge5_FinancialPlanning
+  178  ls
+  179  git add -A
+  180  git commit -m "Redid all the work from last night that didnt save"
+  181  git push
+  182  git add -A
+  183  git commit -m "Redid all the work from last night that didnt save"
+  184  git push
+  185  history 100 > terminal_hist_05.txt
+  186   git log -p --all > git_log_05.txt  
+  187   pip freeze > requirements_05.txt
+  188  git add -A
+  189  git commit -m "Some more minute changes to the jupyter notebook"
+  190  git push
+  191  git pull
+  192  git pull
+  193  git fetch
+  194  git push
+  195  git pull
+  196  git fetch
+  197  git merge origin/master
+  198  git pull origin master
+  199  git status
+  200  git add -A
+  201  git commit -m "removed some files"
+  202  git push
+  203  git fetch
+  204  git add -A
+  205  git commit -m "made some minor edits"
+  206  git push
+  207  git fetch
+  208   git push
+  209  git pull
+  210  git push
+  211  cd..
+  212  cd
+  213  conda activate dev
+  214  pip install sqlachemy
+  215  conda list sqlalchemy
+  216  conda install -c conda-forge voila
+  217  conda activate dev
+  218  cd Desktop/Fintech-WorkSpace/gitlab_class
+  219  ls
+  220  cd CU-VIRT-FIN-PT-03-2022-U-B
+  221  cd CU-VIRT-FIN-PT-03-2022-U-B
+  222  ls
+  223  git fetch
+  224  git pull
+  225  git bffff0e0f5ec661eb1c743283463cb405fbc60a7
+  226  ls
+  227  git stash
+  228  git pull
+  229  cd
+  230  ls
+  231  cd Desktop/Fintech-WorkSpace/gitlab_backup
+  232  cd CU-VIRT-FIN-PT-03-2022-U-B
+  233  cd CU-VIRT-FIN-PT-03-2022-U-B
+  234  ls
+  235  git stash
+  236  git reset --hard
+  237  git pull
+  238  cd
+  239  cd Desktop/Fintech-WorkSpace/gitlab_backup/CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  240  ls
+  241  git reset --hard
+  242   git pull
+  243  ls
+  244  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  245  cd ..
+  246  ls
+  247  git reset --hard
+  248  conda activate dev
+  249  git reset --hard
+  250  git reset --hard
+  251  cd
+  252  cd Desktop/Fintech-WorkSpace/gitlab_backup/CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  253  ls
+  254  git fetch
+  255  ssh add -K
+  256  ssh-keygen -t ed25519
+  257  ls
+  258  git reset --hard
+  259  git pull
+  260  conda activate dev
+  261  cd Desktop/Fintech-WorkSpace/gitlab_backup/CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  262  ls
+  263  git reset --hard
+  264  git pull
+  265  ssh -T git@hitlab.com
+  266  cd Desktop/Fintech-WorkSpace/gitlab_backup/CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  267  conda activate dev
+  268  ssh -T git@gitlab.com
+  269  ssh -Tv git@gitlab.com
+  270  cat ~/.ssh/id_rsa.pub
+  271  ls
+  272  git reset --hard
+  273  git pull
+  274  cd
+  275  cd Desktop/Fintech-WorkSpace/gitlab_backup/CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  276  ls
+  277   cd../..
+  278  cd ..
+  279  cd ..
+  280  cd ..
+  281  ls
+  282  cd gitlab_class
+  283  git stash
+  284  git pull
+  285  ls
+  286  cd CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  287  ls
+  288  git stash
+  289  git pull
+  290  git stash pop
+  291  ls
+  292  cd 07-Financial-Databases-with-SQL
+  293  ls
+  294  jupyter lab
+  295  conda activate dev
+  296  cd
+  297  cd ~/
+  298  cd Desktop/Fintech-WorkSpace/Python_Project/Personal_Projects
+  299  conda activate dev
+  300  ls
+  301  cd Scwhwab_Stocks
+  302  ls
+  303  jupyter lab
+  304  cd ~/Desktop/Fintech-WorkSpace
+  305  ls
+  306  cd 
+  307  ls -al ~/.ssh
+  308  conda activate dev
+  309  cd 
+  310  cd ~/Desktop/Fintech-WorkSpace/Python_Project/
+  311  ls
+  312  mkdir Mod6_Challenge
+  313  ls
+  314  cd Mod6_Challenge
+  315  ls
+  316  mkdir GitHub_Uploader
+  317  ls
+  318  cd GitHub_Uploader
+  319  ls
+  320  ls
+  321  cd ..
+  322  cd ..
+  323  cd ..
+  324  cd ..
+  325  ls
+  326  ls
+  327  cd Fintech-WorkSpace/gitlab_backup
+  328  ls
+  329  cd CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  330  ls
+  331  git reset --hard
+  332  git pull
+  333  cd ..
+  334  cd ..
+  335  cd ..
+  336  ls
+  337  cd gitlab_class
+  338  cd CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  339  ls
+  340  git stash
+  341  git pull
+  342  git stash pop
+  343  ls
+  344  cd 07-Financial-Databases-with-SQL
+  345  ls
+  346  jupyter lab
+  347  comnda activate dev
+  348  conda activate dev
+  349  cd Desktop/Fintech-WorkSpace/Python_Project/
+  350  ls
+  351  cd Mod6_Challenge
+  352  ls
+  353  cd GitHub_Uploader
+  354  ls
+  355  ls
+  356  git clone git@github.com:davepoppins5073/Challenge6_SanFran_RentalMrkt.git
+  357  mkdir Challenge6_SanFran_RentalMrkt\n
+  358  ls
+  359  cd Challenge6_SanFran_RentalMrkt
+  360  ls
+  361  jupyter lab
+  362  conda activate dev
+  363  cd Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader
+  364  ls
+  365  git add -A
+  366  cd Challenge6_SanFran_RentalMrkt
+  367  git add -A
+  368  git commit -m "Housing Units in San Fran 2010 - 2016 graph"
+  369  git push
+  370  git add -A
+  371  git commit -m "Did the geo graphs"
+  372  git push
+  373  git add -A
+  374  git commit -m "Made some edits throughout the notebook. Also added more comments "
+  375  git add -A
+  376  git commit -m "Made some edits to enhance readibility. Too Much text "
+  377  git push
+  378  conda list geoviews
+  379  conda list cartopy
+  380  git add -A
+  381  git commit -m "Really hating this dispearing graoph stuff, many edits made! "
+  382  git push
+  383  conda activate dev
+  384  cd Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader
+  385  ls
+  386  cd Challenge6_SanFran_RentalMrkt
+  387  ls
+  388  ls
+  389  jupyter lab
+  390  cd Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt
+  391  ls
+  392  cd Resources
+  393  la
+  394  ls
+  395  ls -a
+  396  cd ..
+  397  conda activate dev
+  398  ls
+  399  git add -A
+  400  cd ..
+  401  git add -A
+  402  git push
+  403  cd..
+  404   cd ..
+  405  git add -a
+  406   cd GitHub_Uploader/Challenge6_SanFran_RentalMrkt/
+  407  git stash
+  408  git fetch
+  409  git clone /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images/6-4-geoviews-plot.png /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images/avg-sale-px-sq-foot-gross-rent.png /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images/pricing-info-by-neighborhood.png /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images/zoomed-housing-units-by-year.png /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Resources /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Resources/housing_per_year.csv /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Resources/neighborhoods_coordinates.csv /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Resources/sfo_neighborhoods_census_data.csv /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/san_francisco_housing.ipynb 
+  410  git clone /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images/6-4-geoviews-plot.png /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images/avg-sale-px-sq-foot-gross-rent.png /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images/pricing-info-by-neighborhood.png /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images/zoomed-housing-units-by-year.png /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Resources /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Resources/housing_per_year.csv /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Resources/neighborhoods_coordinates.csv /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Resources/sfo_neighborhoods_census_data.csv /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/san_francisco_housing.ipynb 
+  411  ls
+  412  git clone
+  413  git clone /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images/6-4-geoviews-plot.png /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images/avg-sale-px-sq-foot-gross-rent.png /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images/pricing-info-by-neighborhood.png /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Images/zoomed-housing-units-by-year.png /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Resources /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Resources/housing_per_year.csv /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Resources/neighborhoods_coordinates.csv /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/Resources/sfo_neighborhoods_census_data.csv /Users/comdrpaquiot/Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt/san_francisco_housing.ipynb \n
+  414  git clone git@github.com:davepoppins5073/Challenge6_SanFran_RentalMrkt.git
+  415  ssh-agent -s
+  416  ssh-add ~/.ssh/id_rsa
+  417  git clone git@github.com:davepoppins5073/Challenge6_SanFran_RentalMrkt.git
+  418  ls
+  419  git add -A
+  420  cd ..
+  421  ls
+  422  cd ..
+  423  cd Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge
+  424  ls
+  425  cd GitHub_Uploader
+  426  git clone git@github.com:davepoppins5073/Challenge6_SanFran_RentalMrkt.git
+  427  ls
+  428  cd Challenge6_SanFran_RentalMrkt
+  429  ls
+  430  git add -A
+  431  git commit -m "change file directory around"
+  432  git add -A
+  433  git commit -m "change file directory around"
+  434  git push
+  435  jupyter lab
+  436  conda activate dev
+  437  cd Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader
+  438  ls
+  439  cd Challenge6_SanFran_RentalMrkt
+  440  ls
+  441  jupyter lab
+  442  conda ctivate dev
+  443  conda activate dev
+  444  cd Desktop/Fintech-WorkSpace/Python_Project/Mod6_Challenge/GitHub_Uploader/Challenge6_SanFran_RentalMrkt
+  445  git log -p
+  446  conda install -c pyviz hvplot geoviews
+  447  conda install cartopy
+  448  conda deactivate dev
+  449  conda deactivate
+  450  conda install cartopy
+  451  conda install -c pyviz hvplot geoviews
+  452  conda activate dev
+  453  git add -A
+  454  git commit-m "more edits, fixed the interactive graph: hiover buttons"
+  455  git commit -m "more edits, fixed the interactive graph: hover buttons"
+  456  git push
+  457  ssh-agent -s
+  458  ssh-add ~/,ssh/id_rsa
+  459  ssh-add ~/.ssh/id_rsa
+  460  git push
+  461  git add -A
+  462  git commit -m "more added to my answers to the questions"
+  463  git pull
+  464  git config pull.rebase false
+  465  git add -A
+  466  git commit -m "more edits"
+  467  git push
+  468  history 200 > terminal_hist_06.txt
+  469   git log -p --all > git_log_06.txt  
+  470  pip freeze > requirements_06.txt
+  471  git pull
+  472  git pull
+  473  git add -A
+  474  git commit -m "Added more story"
+  475  git push
+  476  cd 
+  477  Desktop/Fintech-WorkSpace
+  478  ls
+  479  cd Desktop/Fintech-WorkSpace
+  480  ls
+  481  cd gitlab_class
+  482  conda activate dev
+  483   cd Desktop
+  484  cd Fintech-WorkSpace
+  485  ls 
+  486  cd Python_Project
+  487  ls 
+  488  cd Personal_Projects
+  489  ls
+  490  mkdir Crypto_Trading
+  491  ls
+  492  cd Crypto_Trading
+  493  jupyter lab
+  494  conda activate dev
+  495  pip intsall coinmarketcapapi
+  496  pip install coinmarketcapapi
+  497  conda deactivate dev
+  498  conda deactivate
+  499  pip install coinmarketcapapi
+  500  cd Desktop/Fintech-WorkSpace/Python_Project/Personal_Projects
+  501  ls
+  502  cd Crypto_Trading
+  503  ls
+  504  jupyter lab
+  505  conda activate dev
+  506  ls
+  507  cd Desktop/Fintech-WorkSpace/Python_Project/Personal_Projects
+  508  ls
+  509  cd Crypto_Trading
+  510  ls
+  511  jupyter labs
+  512  jupyter lab
+  513  conda activate dev
+  514  pip show pandas_datareader
+  515  pip install pandas_datareader
+  516  pip install pip-coinmarketcap
+  517  pip install python-coinmarketcap
+  518  conda activate dev
+  519  pip install python-coinmarketcap
+  520  cd Desktop/Fintech-WorkSpace/Python_Project/Personal_Projects
+  521  ls
+  522  cd Crypto_Trading
+  523  ls
+  524  jupyter lab
+  525  pip install pandas_datareader
+  526  conda activate dev
+  527  pip install pandas_datareader
+  528  pip install plotly
+  529  conda activate dev
+  530  cd Desktop/Fintech-WorkSpace/Python_Project/Personal_Projects/Crypto_Trading/
+  531  jupyter lab
+  532  pip install plotly
+  533  conda activate dev
+  534  pip install dev
+  535  pip install plotly
+  536  conda activate dev 
+  537  cd  Desktop/Fintech-WorkSpace/Python_Project/Personal_Projects/Crypto_Trading
+  538  ls
+  539  jupyter lab
+  540  conda activate dev
+  541  cd Desktop/Fintech-WorkSpace/Python_Project/Personal_Projects/Crypto_Trading
+  542  ls
+  543  jupyter labs
+  544  jupyter lab
+  545  conda showvoila
+  546  conda show voila
+  547  conda activate dev
+  548  pip install voila
+  549  cd Desktop/Fintech-WorkSpace/Python_Project/Mod7_Challenge/Git_Uploader/Challenge7_SQL_PassiveInvesting
+  550  ls
+  551  git add -A
+  552  git commit -m "Working through the notebook up to part 2"
+  553  git push
+  554  git add -A
+  555  git commit -m "added another section of answers to the ipynb"
+  556  git push
+  557  git add -A
+  558  git commit -m "added function and restructured the notebook"
+  559  git push
+  560  git add -A
+  561  git commit -m "added last section"
+  562  git push
+  563  ls
+  564  voila etf_analyzer.ipynb
+  565  conda activate dec
+  566  conda activate dev
+  567  cd Desktop/Fintech-WorkSpace/gitlab_class
+  568  ls
+  569  cd CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  570  ls
+  571  cd 07
+  572  cd 07-Financial-Databases-with-SQL
+  573  ld
+  574  ls
+  575  jupyter lab
+  576  conda activate dev
+  577  ls
+  578  cd Desktop/Fintech-WorkSpace/Python_Project
+  579  ls
+  580  mkdir Mod7_Challenge
+  581  cd Mod7_Challenge
+  582  ls
+  583  mkdir Git_Uploader
+  584  ls
+  585  cd Git_Uploader
+  586  git clone git@github.com:davepoppins5073/Challenge7_SQL_PassiveInvesting.git
+  587  ssh-agent -s
+  588  git clone git@github.com:davepoppins5073/Challenge7_SQL_PassiveInvesting.git
+  589  ssh-add ~/.ssh/id_rsa
+  590  git clone git@github.com:davepoppins5073/Challenge7_SQL_PassiveInvesting.git
+  591  cd
+  592  cd Desktop/Fintech-WorkSpace/Python_Project/Mod7_Challenge/Git_Uploader
+  593  ls
+  594  cd Challenge7_SQL_PassiveInvesting
+  595  ls
+  596  jupyter lab
+  597  conda activate dev
+  598   cd Desktop/Fintech-WorkSpace/Python_Project/Mod7_Challenge/Git_Uploader/Challenge7_SQL_PassiveInvesting
+  599  ls
+  600  git add -A
+  601  git commit -m "more changes to some displays"
+  602  git push
+  603   pip freeze > requirements_07.txt
+  604  git log -p --all > git_log_07.txt
+  605  history 250 > terminal_hist_07.txt
+  606  git add -A
+  607  git commit -m "added requrements file, git log and command history files"
+  608  git push
+  609  ls 
+  610  voila etf_analyzer.ipynb
+  611  conda activate dev
+  612  Cd Desktop/Fintech-WorkSpace/Python_Project/
+  613  ls
+  614  cd Desktop/Fintech-WorkSpace/Python_Project/Mod7_Challenge/Git_Uploader/Challenge7_SQL_PassiveInvesting
+  615  ls
+  616  voila etf_analyzer.ipynb
+  617  conda activate dev
+  618  cd Desktop/Fintech-WorkSpace/Python_Project/Mod7_Challenge/Git_Uploader/Challenge7_SQL_PassiveInvesting
+  619  ls 
+  620  voila etf_analyzer.ipynb
+  621  conda activate dev
+  622  cd Desktop/Fintech-WorkSpace/Python_Project/
+  623  ls
+  624  cd Project_1
+  625  ls
+  626  git clone git@github.com:aarch23/Project-1---Active-.git
+  627  ssh-agent -s
+  628  ssh-add ~/.ssh/id_rsa
+  629  git clone git@github.com:aarch23/Project-1---Active-.git
+  630  ls
+  631  cd Project-1---Active-
+  632  ls
+  633  cd .
+  634  cd ..
+  635  cd ..
+  636  ls
+  637  cd Mod7_Challenge/Git_Uploader
+  638  ls
+  639  cd Challenge7_SQL_PassiveInvesting
+  640  ls 
+  641  git add -A
+  642  git commit -m  "Made a change and all that jazz"
+  643  git push
+  644  conda activate dev
+  645  cd Desktop/Fintech-WorkSpace/Python_Project
+  646  ls
+  647  mkdir Project_1
+  648  mkdir GitHub_Uploader
+  649  cd GitHub_Uploader
+  650  ls
+  651  cd ..
+  652  cd ..
+  653  ls
+  654  cd Python_Project
+  655  cd Per
+  656  cd Personal_Projects
+  657  ls
+  658  cd Crypto_Trading
+  659  ls
+  660  jupyter lab
+  661  conda activare dev
+  662  conda activate dev
+  663  cd Desktop/Fintech-WorkSpace/Python_Project/Project_1/Project-1---Active-/
+  664  ls 
+  665  jupyter lab
+  666  conda activate dev
+  667  cd Desktop/Fintech-WorkSpace/Python_Project/Project_1/Project-1---Active-/Resources
+  668  ls
+  669  jupyter lab
+  670  cd Download
+  671  ls
+  672  cd Desktop
+  673  ls
+  674  ls
+  675  cd ..
+  676  cd ..
+  677  cd Downloads
+  678  cd ..
+  679  conda activate dev
+  680  cd Downloads
+  681  ls
+  682  jupyter lab
+  683  cd Download
+  684  ls
+  685  cd Downloads
+  686  ls
+  687  voila ProjectFile (2).ipynb
+  688  voila ProjectFile (2).ipynb
+  689  ls
+  690  viola ProjectFile_dpEdition.ipynb
+  691  conda activate dev
+  692  viola ProjectFile_dpEdition.ipynb
+  693  pip install viola
+  694  viola ProjectFile_dpEdition.ipynb
+  695  viola ProjectFile_dpEdition.ipynb
+  696  conda activate dev
+  697  cd Desktop/Fintech-WorkSpace
+  698  ls
+  699  cd Python_Project
+  700  cd Project_1
+  701  ls
+  702  ls
+  703  cd Project-1---Active-
+  704  ls
+  705  cd ..
+  706  cd
+  707  ls Downloads
+  708  ls
+  709  cd Downloads
+  710  ls
+  711  jupter labs
+  712  jupter lab
+  713  jupyter lab
+  714  conda activate dev
+  715  ls
+  716  cd Desktop/Fintech-WorkSpace/Python_Project/Project_1
+  717  ls
+  718  cd Project-1---Active-
+  719  ls
+  720  viola ProjectFile.ipynb
+  721  install viola
+  722  pip install viola
+  723  viola ProjectFile.ipynb
+  724  voila ProjectFile.ipynb
+  725  conda activate dev
+  726  ls 
+  727  cd Downloads
+  728  ls
+  729  cd Final
+  730  ls
+  731  viola ProjectFileFinal.ipynb
+  732  conda activate devr
+  733  voila ProjectFileFinal.ipynb
+  734  conda activate dev
+  735  ls
+  736  cd Desktop/Fintech-WorkSpace
+  737  ls
+  738  cd
+  739  cd Desktop
+  740  cd Download
+  741  cd Downloads
+  742  cd
+  743  ls 
+  744  CD Downloads
+  745  ls
+  746  cd Downloads
+  747  ls
+  748  jupyter labs
+  749  jupyter lab
+  750  conda activate dev
+  751  cd Downloads
+  752  ls
+  753  jupyer labs
+  754  jupyer lab
+  755  jupyter lab
+  756  pip install sklearn
+  757  conda activate dev
+  758  pip install sklearn
+  759  cd Desktop/Fintech-WorkSpace/Python_Project
+  760  ls
+  761  mkdir  Mod8_Challenge
+  762  ld
+  763  ls
+  764  cd Mod8_Challenge
+  765  ls
+  766  cd ..
+  767  cd ..
+  768  ld
+  769  ls
+  770  cd gitlab_backup
+  771  ls
+  772  git reset --hard\ngit pull
+  773  cd ..
+  774  cd
+  775  pip install -U scikit-learn
+  776  cd Desktop/Fintech-WorkSpace/ls
+  777  cd Desktop/Fintech-WorkSpace/gitlab_backup
+  778  ls
+  779  cv CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  780  cd CU-VIRT-FIN-PT-03-2022-U-B
+  781  cd CU-VIRT-FIN-PT-03-2022-U-B
+  782  ls
+  783  git reset --hard
+  784  git pull
+  785  ssh-agent -s
+  786  ssh-add ~/.ssh/id_rsa
+  787  git reset --hard
+  788  git pull
+  789  cd ..
+  790  cd ..
+  791  cd ..
+  792  ls
+  793  cd gitlab_class
+  794  ls
+  795  cd CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  796  ls
+  797  git stash
+  798  git pull
+  799  git stash pop
+  800  cd ../..
+  801  cd ..
+  802  ls
+  803  cd gitlab_class
+  804  ls
+  805  cd CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  806  ls
+  807  cd 10-Unsupervised-Learning
+  808  ls
+  809  jupyter labs
+  810  jupyter lab
+  811  conda activate dev
+  812  pip install kneed
+  813  conda activate dev
+  814  ls
+  815  cd Downloads
+  816  ls
+  817  jupyter-lab
+  818  conda activate dev
+  819  pip install --upgrade kneed
+  820  conda dec deactivate
+  821  conda deactivate dev
+  822   conda dev deactivate
+  823  pip install --upgrade kneed
+  824  conda activate dev
+  825  cd Download
+  826  cd Downloads
+  827  jupyter lab
+  828  conda activate dev
+  829  ls
+  830   cd Desktop/Fintech-WorkSpace
+  831  ls
+  832  cd gitlab_class
+  833  ssh-agent -s
+  834  ssh-add ~/.ssh/id_rsa
+  835  ls
+  836  cd CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  837  ls
+  838  git stash
+  839  git pull
+  840  git stash pop
+  841  ls
+  842  cd ..
+  843  cd ..
+  844  cd ..
+  845  ls
+  846  cd gitlab_backup
+  847  ls
+  848  cd CU-VIRT-FIN-PT-03-2022-U-B/C
+  849  cd CU-VIRT-FIN-PT-03-2022-U-B
+  850  cd CU-VIRT-FIN-PT-03-2022-U-B
+  851  ls
+  852  git reset --hard
+  853  git pull
+  854  ls
+  855  cd 11-Time-Series-Analysis
+  856  ls
+  857  cd 1
+  858  ls
+  859  jupyter lab
+  860  conda activate dev
+  861  cd Desktop/Fintech-WorkSpace/Python_Project
+  862  l;s
+  863  ls
+  864  cd Mod_10_Challenge
+  865  cd GitHub_Uploader/CryptoPortfolio_k-MeansClustering
+  866  ls
+  867  ls
+  868  git add -A
+  869  git commit -m "First run through of notebook creation. Filled out all coding sections"
+  870  git push
+  871  git add -A
+  872  git commit -m "Fixed the titles in the ipynb."
+  873  git push
+  874  git add -A
+  875  git commit -m "Fixed dataframe column name for better looking plot"
+  876  git push
+  877  git add -A
+  878  git commit -m "Added some comments and fixed a mistake with teh dataset I was using in the first elbow method. Thought it was the non normalized original data set"
+  879  git push
+  880  git add -A
+  881  git commit -m "Added the kneed library section for  determinining the elbow location"
+  882  git push
+  883  git add -A
+  884  git commit -m "Added more comments to the PCA Anlysis section and worked on some graphs"
+  885  git push
+  886  git add -A
+  887  git commit -m "Added more touching up the notebooks with comments and descriptions. edits for better clarity"
+  888  git push
+  889  git add -A
+  890  git commit -m "Added the composite graphs towrds the end"
+  891  git push
+  892  git add -A
+  893  git commit -m "Added the last answers and saved"
+  894  pip freeze > requirementst_10.txt
+  895  git log -p --all > git_log_10.txt
+  896  history 100 > terminal_history_10.txt
+  897  git add -A
+  898  git commit -m "added command history, git commit history as well as a requirements txt files"
+  899  git push
+  900  conda activate dev
+  901  ls 
+  902  cd Desktop/Fintech-WorkSpace/Python_Project
+  903  ls
+  904  mkdir Mod10_Challenge
+  905  ls
+  906  rmdir Mod10_Challenge
+  907  ls
+  908  mkdir Mod_10_Challenge
+  909  rmdir Mod8_Challenge
+  910  ls
+  911  cd Mod_10_Challenge
+  912  mkdir GitHub_Uploader
+  913  cd GitHub_Uploader
+  914  ls
+  915  ssh-agent -s
+  916  ssh-add ~/.ssh/id_rsa
+  917  git clone git@github.com:davepoppins5073/CryptoPortfolio_k-MeansClustering.git
+  918  ls
+  919  cd CryptoPortfolio_k-MeansClustering
+  920  ls 
+  921  jupyter-labs
+  922  jupyter-lab
+  923  conda activate  dev
+  924  ls
+  925  cd Desktop/Fintech-WorkSpace
+  926  ls
+  927  gitlab_class
+  928  cd gitlab_class
+  929  ls
+  930  cd CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  931  ls
+  932  git stash
+  933  git pull
+  934  git stash pop
+  935  git pull
+  936  cd ..
+  937  cd..
+  938  cd ..
+  939  cd ..
+  940  ls
+  941  gitlab_backup
+  942  cd gitlab_backup
+  943  cd CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  944  git reset --hard
+  945  git pull
+  946   cd
+  947  ls
+  948  cd Desktop
+  949  ls
+  950  cd Fintech-WorkSpace
+  951  ls
+  952  gitlab_class
+  953  cd gitlab_class
+  954  ls
+  955  cd CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  956  lol
+  957  ls
+  958  cd ..
+  959  cd ..
+  960  cd ..
+  961  conda list imbalanced-learn
+  962  conda install -c conda-forge imbalanced-learn
+  963  conda list imbalanced-learn
+  964  conda install -c conda-forge pydotplus
+  965  conda list pydotplus
+  966  ls 
+  967  cd gitlab_class
+  968  ls
+  969   cd CU-VIRT-FIN-PT-03-2022-U-B/CU-VIRT-FIN-PT-03-2022-U-B
+  970  ls
+  971  cd 12-Supervised-Learning
+  972  jupyter-lab
+  973  conda activate dev
+  974  cd Desktop/Fintech-WorkSpace/Python_Project
+  975  ls
+  976  mkdir Mod_11_Challenge
+  977  ls
+  978  cd Mod_11
+  979  cd Mod_11_Challenge
+  980  ls
+  981  mkdir GitHub_Uploader
+  982  ls
+  983  cd GitHub_Uploader
+  984  git pull git@github.com:davepoppins5073/Challenge_11_Predictive_Growth_Analytics.git
+  985  ssh-agent -s
+  986  ssh-add ~/.ssh/id_rsa
+  987  git pull git@github.com:davepoppins5073/Challenge_11_Predictive_Growth_Analytics.git
+  988  git reset --hard
+  989  ls
+  990  git clone git@github.com:davepoppins5073/Challenge_11_Predictive_Growth_Analytics.git
+  991  ls
+  992  cd Challenge_11_Predictive_Growth_Analytics
+  993  ls
+  994   jupyter-lab
+  995  conda activate dev
+  996   pip install pystan==2.19.1.1
+  997  pip install prophet
+  998  pip install fbprophet
+  999  pip install cmdstanpy
+ 1000  pip install fbprophet
+ 1001  conda activate dev
+ 1002  ls Desktop/Fintech-WorkSpace/Python_Project/Mod_12_Challenge/GitHub_Uploader
+ 1003  ls Desktop/Fintech-WorkSpace/Python_Project/Mod_12_Challenge/GitHub_Uploader
+ 1004  ls Desktop/Fintech-WorkSpace/Python_Project/Mod_12_Challenge/GitHub_Uploader
+ 1005  cd  Desktop/Fintech-WorkSpace/Python_Project/Mod_12_Challenge/GitHub_Uploader
+ 1006  ls
+ 1007  cd Challenge_11_SupervisedLearning_Risk_Mgmt
+ 1008  ls
+ 1009  git add -A
+ 1010  git commit -m "Adding Data preprocessing code replete with notes."
+ 1011  git push
+ 1012  git add -A
+ 1013  git commit -m "Added a whole other section with the linear regression"
+ 1014  git push
+ 1015  git add -A
+ 1016  git commit -m "Added the code and analysis of the oversampled data! interestign with recall"
+ 1017  git push
+ 1018   pip freeze > requirements_CH12.txt
+ 1019  git log -p --all > git_log_CH12.txt 
